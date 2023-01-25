@@ -16,7 +16,7 @@
         "javascript",
         "es6"
     ],
-    "author": "Rahul Gupta",
+    "author": "Axel Obscura",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.19.0",

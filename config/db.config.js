@@ -4,7 +4,7 @@ const mysql = require('mysql');
 
 //local mysql db connection
 const dbConn = mysql.createConnection({
-    host: 'sql571.main-hosting.eu',
+    host: '217.21.77.51',
     user: 'u304720237_derevo',
     password: 'D2r2v4@123',
     database: 'u304720237_derevo',
